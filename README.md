@@ -7,3 +7,6 @@ Tokeni:
   2. discbotce
   3. steampass
   4. steamsecret
+
+https://dashboard.render.com/
+https://cron-job.org/en/
