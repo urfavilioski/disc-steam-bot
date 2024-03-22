@@ -42,4 +42,4 @@ botcence.on("error", (err) => {
   console.error(err); 
 });
 botcence.connect(); 
-console.log('714271186900615279 - diskord lightangel1792');
+console.log('714271186900615279 - diskord qraccccc');
