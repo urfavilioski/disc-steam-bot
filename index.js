@@ -24,13 +24,22 @@ bot.on("error", (err) => {
   console.error(err); 
 });
 bot.connect(); 
-console.log('335048615603208193 - diskord logiran');
+console.log('335048615603208193 - diskord morningstar7701');
 
-// DISCORD CELO VREME DND STARIO ACC
+// DISCORD CELO VREME DND
 const Erikson = require("eris");
 const botce = new Erikson(process.env.discbotce);
 botce.on("error", (err) => {
   console.error(err); 
 });
 botce.connect(); 
-console.log('951184062331109426 - diskord vtor logiran');
+console.log('951184062331109426 - diskord ilioski');lightangel1792
+
+// DISCORD CELO VREME
+const Eriksonce = require("eris");
+const botcence = new Eriksonce(process.env.discbotcence);
+botcence.on("error", (err) => {
+  console.error(err); 
+});
+botcence.connect(); 
+console.log('714271186900615279 - diskord lightangel1792');
