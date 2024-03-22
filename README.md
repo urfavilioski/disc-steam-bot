@@ -5,8 +5,9 @@ Za da raboti steam sati booster potrebno e Steam Desktop Authenticator zaradi se
 Tokeni:
   1. discbot
   2. discbotce
-  3. steampass
-  4. steamsecret
+  3. discbotcence
+  4. steampass
+  5. steamsecret
 
 https://dashboard.render.com/
 https://cron-job.org/en/
