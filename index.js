@@ -33,7 +33,7 @@ botce.on("error", (err) => {
   console.error(err); 
 });
 botce.connect(); 
-console.log('951184062331109426 - diskord ilioski');lightangel1792
+console.log('951184062331109426 - diskord ilioski');
 
 // DISCORD CELO VREME
 const Eriksonce = require("eris");
