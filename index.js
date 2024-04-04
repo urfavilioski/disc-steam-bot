@@ -18,13 +18,13 @@ user.on('loggedOn', () => {
 });
 
 // DISCORD CELO VREME DND
-/*const Eris = require("eris");
+const Eris = require("eris");
 const bot = new Eris(process.env.discbot);
 bot.on("error", (err) => {
   console.error(err); 
 });
 bot.connect(); 
-console.log('335048615603208193 - diskord ilioskifi');*/
+console.log('335048615603208193 - diskord ilioskifi');
 
 // DISCORD CELO VREME DND
 const Erikson = require("eris");
