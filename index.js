@@ -4,7 +4,7 @@ const keep_alive = require('./keep_alive.js')
 // STEAM FARMANJE SATI
 const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
-var username = 'ilioskifi';
+var username = process.env.steamuser;
 var password = process.env.steampass;
 var shared_secret = process.env.steamsecret;
 var games = [730];  // Enter here AppIDs of the needed games
