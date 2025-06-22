@@ -7,7 +7,7 @@ const steamTotp = require('steam-totp');
 var username = process.env.steamuser;
 var password = process.env.steampass;
 var shared_secret = process.env.steamsecret;
-var games = [730];  // Enter here AppIDs of the needed games
+var games = [578080, 730];  // Enter here AppIDs of the needed games
 var status = 1;  // 1 - online, 7 - invisible
 user = new steamUser();
 user.logOn({"accountName": username, "password": password, "twoFactorCode": steamTotp.generateAuthCode(shared_secret)});
