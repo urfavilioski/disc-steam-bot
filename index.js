@@ -1,6 +1,7 @@
 console.log(':)')
 const keep_alive = require('./keep_alive.js')
 
+/*
 // STEAM FARMANJE SATI
 const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
@@ -16,6 +17,7 @@ user.on('loggedOn', () => {
   user.setPersona(status);               
   user.gamesPlayed(games);
 });
+*/
 
 // DISCORD CELO VREME DND
 const Eris = require("eris");
